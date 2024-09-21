@@ -1,17 +1,17 @@
-abbreviation: NE
+abbreviation: AR
 available: false
-classes: 32
-colour: 1
+classes: 1056
+colour: 28
 id: 0
-label: NEWC
-longName: 'new cargo #0'
-name: 'New Cargo #0'
+label: ARMR
+longName: armor
+name: Armor
 penaltyLength: 255
 penaltyLowerBound: 0
 price: 4112
 sprite:
-  filename: cargoes/new-cargo-0.png
+  filename: cargoes/armor.png
   left: 0
   top: 0
-unitName: Items
+unitName: Tonnes
 weight: 16
